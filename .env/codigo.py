@@ -64,7 +64,7 @@ def printPath(distancias,inicio, fim, path):
             return path
 
 
-
+#interface
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
