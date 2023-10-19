@@ -7,4 +7,4 @@ Algumas informações importantes:
 - _Muitas partes do código são só para implementar a interface gráfica e não alteram o funcionamento do algoritmo._
 - _Para utilizar o executável é necessário a pasta inteira!._
 
-** OBS: ** De nada futuros alunos do Edgard.
+**OBS:** De nada futuros alunos do Edgard.
